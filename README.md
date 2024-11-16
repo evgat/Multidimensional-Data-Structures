@@ -1,4 +1,4 @@
-# Multidimensional Data Structures
+# Project on "Multidimensional Data Structures"
 CEID PROJECT 2021
 
 - K-D Trees and Quad Trees: Experimental Comparison of the two structures (Storage/Build/Insert/Delete/Update/Search performance comparison) for 2 dimensions. 
